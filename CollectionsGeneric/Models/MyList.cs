@@ -14,8 +14,14 @@ namespace CollectionsGeneric.Models
 
         public T this[int index]
         {
-            get { return _array[index]; }
-            set { _array[index] = value; }
+            get
+            {
+                return _array[index];
+            }
+            set
+            {
+                _array[index] = value;
+            }
         }
         public MyList()
         {
@@ -39,6 +45,16 @@ namespace CollectionsGeneric.Models
         public int IndexOf(T value)
         {
             for (int i = 0; i < _array.Length - 1; i++)
+            {
+                if (_array[i].Equals(value))
+                    return i;
+            }
+            return -1;
+        }
+
+        public int LastIndexOf(T value)
+        {
+            for (int i = _array.Length - 1; i >= 0; i--)
             {
                 if (_array[i].Equals(value))
                     return i;
