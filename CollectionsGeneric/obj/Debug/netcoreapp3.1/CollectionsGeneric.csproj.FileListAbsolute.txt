@@ -1,0 +1,14 @@
+C:\Users\asger\Desktop\Tasks\CollectionsGeneric\CollectionsGeneric\bin\Debug\netcoreapp3.1\CollectionsGeneric.exe
+C:\Users\asger\Desktop\Tasks\CollectionsGeneric\CollectionsGeneric\bin\Debug\netcoreapp3.1\CollectionsGeneric.deps.json
+C:\Users\asger\Desktop\Tasks\CollectionsGeneric\CollectionsGeneric\bin\Debug\netcoreapp3.1\CollectionsGeneric.runtimeconfig.json
+C:\Users\asger\Desktop\Tasks\CollectionsGeneric\CollectionsGeneric\bin\Debug\netcoreapp3.1\CollectionsGeneric.runtimeconfig.dev.json
+C:\Users\asger\Desktop\Tasks\CollectionsGeneric\CollectionsGeneric\bin\Debug\netcoreapp3.1\CollectionsGeneric.dll
+C:\Users\asger\Desktop\Tasks\CollectionsGeneric\CollectionsGeneric\bin\Debug\netcoreapp3.1\CollectionsGeneric.pdb
+C:\Users\asger\Desktop\Tasks\CollectionsGeneric\CollectionsGeneric\obj\Debug\netcoreapp3.1\CollectionsGeneric.csproj.AssemblyReference.cache
+C:\Users\asger\Desktop\Tasks\CollectionsGeneric\CollectionsGeneric\obj\Debug\netcoreapp3.1\CollectionsGeneric.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asger\Desktop\Tasks\CollectionsGeneric\CollectionsGeneric\obj\Debug\netcoreapp3.1\CollectionsGeneric.AssemblyInfoInputs.cache
+C:\Users\asger\Desktop\Tasks\CollectionsGeneric\CollectionsGeneric\obj\Debug\netcoreapp3.1\CollectionsGeneric.AssemblyInfo.cs
+C:\Users\asger\Desktop\Tasks\CollectionsGeneric\CollectionsGeneric\obj\Debug\netcoreapp3.1\CollectionsGeneric.csproj.CoreCompileInputs.cache
+C:\Users\asger\Desktop\Tasks\CollectionsGeneric\CollectionsGeneric\obj\Debug\netcoreapp3.1\CollectionsGeneric.dll
+C:\Users\asger\Desktop\Tasks\CollectionsGeneric\CollectionsGeneric\obj\Debug\netcoreapp3.1\CollectionsGeneric.pdb
+C:\Users\asger\Desktop\Tasks\CollectionsGeneric\CollectionsGeneric\obj\Debug\netcoreapp3.1\CollectionsGeneric.genruntimeconfig.cache
